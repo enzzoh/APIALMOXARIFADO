@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Categoria</th>
+          
+        </tr>
+    </thead>
+    <tbody id="tableDescricao">
+      
+    </tbody>
+</table>
+<script>
+    function teste() {
+        var url = window.location.href + "categorias";
+        var table = document.getElementById("tableDescricao");
+
+        fetch(url)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Erro ao carregar os dados.');
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log(data);
+                data.forEach((element) => {
+                    table.innerHTML += `
+                            <tr>
+                                <th scope="row">${element.catId}</th>
+                                <td>${element.catDescricao}</td>
+                            </tr>`;
+                });
+            })
+            .catch(error => {
+                console.error('Erro:', error);
+            });
+    }
+
+
+    teste();
+</script>

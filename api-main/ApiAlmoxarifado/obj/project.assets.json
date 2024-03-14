@@ -2342,11 +2342,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fusion\\Downloads\\api-main\\api-main\\ApiAlmoxarifado\\ApiAlmoxarifado.csproj",
+      "projectUniqueName": "C:\\Users\\fusion\\Documents\\GitHub\\APIALMOXARIFADO\\api-main\\ApiAlmoxarifado\\ApiAlmoxarifado.csproj",
       "projectName": "ApiAlmoxarifado",
-      "projectPath": "C:\\Users\\fusion\\Downloads\\api-main\\api-main\\ApiAlmoxarifado\\ApiAlmoxarifado.csproj",
+      "projectPath": "C:\\Users\\fusion\\Documents\\GitHub\\APIALMOXARIFADO\\api-main\\ApiAlmoxarifado\\ApiAlmoxarifado.csproj",
       "packagesPath": "C:\\Users\\fusion\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fusion\\Downloads\\api-main\\api-main\\ApiAlmoxarifado\\obj\\",
+      "outputPath": "C:\\Users\\fusion\\Documents\\GitHub\\APIALMOXARIFADO\\api-main\\ApiAlmoxarifado\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fusion\\AppData\\Roaming\\NuGet\\NuGet.Config",

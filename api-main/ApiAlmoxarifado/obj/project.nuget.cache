@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qHwc/QY7/ERcm3zwWrFFJKy6bMEkHlm/kxrvy8zbkShcdmR4+vfYRwFgMecpZnlpHKo/fHUimEp+6w0Dvc6IgA==",
+  "dgSpecHash": "HVw8obHDg7pS2zD9ialRnT5l6l1e5kc/mvdsnUKmRxz3W7OuwoMXXUqdeV7wQXgynjJkv6exK5UKJdLWSdrvfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fusion\\Downloads\\api-main\\api-main\\ApiAlmoxarifado\\ApiAlmoxarifado.csproj",
+  "projectFilePath": "C:\\Users\\fusion\\Documents\\GitHub\\APIALMOXARIFADO\\api-main\\ApiAlmoxarifado\\ApiAlmoxarifado.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fusion\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\fusion\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",
